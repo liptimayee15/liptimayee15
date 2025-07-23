@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liptimayee Sahoo</h1>
 <h3 align="center">A passionate and detail-oriented Software Developer from India</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Coding gif"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
